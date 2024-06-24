@@ -9,8 +9,10 @@
         "laravel/framework": "^11.9",
         "laravel/jetstream": "^5.1",
         "laravel/sanctum": "^4.0",
+        "laravel/scout": "^10.10",
         "laravel/tinker": "^2.9",
-        "livewire/livewire": "^3.0"
+        "livewire/livewire": "^3.0",
+        "lunarphp/lunar": "^1.0.0-alpha"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -64,6 +66,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
